@@ -53,7 +53,7 @@ client=MultiServerMCPClient(
         "arith":{
             "transport":'stdio',
             "command":'python3',
-            "args":["C:\\Users\\admin\\Desktop\\chatbot_server\\chatbot_async_mcp_server.py"]
+            "args":["C:\\Users\\admin\\Desktop\\chatbot_tools\\chatbot_server"]
             }
     }
 )
